@@ -23,8 +23,8 @@ The demo uses the following input features:
 
 ## Files
 
-- `lightFM_rec_with_location_real_dataset.py` - builds the dataset, user/item features, and trains the LightFM model.
-- `song_recommendation_demo.py` - demo script that runs the ABBA example and prints recommendations.
+- `dataset_and_recommender_model.py` - initializes the LightFM dataset, builds user/item features, and trains the model.
+- `main_song_recommendation_demo.py` - demo script that prompts for song and location input, then generates recommendations.
 
 ## Setup
 

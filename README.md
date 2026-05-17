@@ -1,6 +1,6 @@
 # Spotify Location-Aware Recommendation Demo - "GeoTracks"
 
-This repository demonstrates an Efficient Recommendation System using Factorization Machines, a Recommender Model with Song Metadata using Spotify publicly provided audio features, and Synthesized user location features.
+This repository demonstrates an efficient Recommendation System using Factorization Machines, a Recommender Model with Song Metadata using Spotify publicly provided audio features, and synthesized physical user-location features.
 
 LightFM is a Recommender Model based on matrix factorization with feature-aware embeddings, and it is trained using gradient descent-style updates. These models are easily parallelized and distributed, which makes them a good fit for larger recommendation workloads.
 
